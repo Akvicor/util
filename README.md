@@ -1,7 +1,7 @@
 # Util
 
 [![GoReport](https://goreportcard.com/badge/github.com/Akvicor/util)](https://goreportcard.com/report/github.com/Akvicor/util)
-[![Gitea Release](https://img.shields.io/gitea/v/release/gomod/util?gitea_url=https%3A%2F%2Fgit.viry.cc)](https://github.com/Akvicor/util/releases/latest)
+[![Gitea Release](https://img.shields.io/gitea/v/release/gomod/util?gitea_url=https%3A%2F%2Fgithub.com)](https://github.com/Akvicor/util/releases/latest)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/Akvicor/util?tab=doc)
 
